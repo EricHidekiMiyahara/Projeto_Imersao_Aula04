@@ -1,4 +1,4 @@
-# Tratamento Psicológico Gratuito para Vítimas das Enchentes no Rio Grande do Sul <img src="saude.png">
+# Tratamento Psicológico Gratuito para Vítimas das Enchentes no Rio Grande do Sul <i class="fa-solid fa-brain"></i>
 
 
 
