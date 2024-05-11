@@ -21,6 +21,7 @@
   
 ## Tecnologias usadas 🖥️
 * Python
+* Jupyter Notebook
 * Google AI Studio
 * Gemini
   
