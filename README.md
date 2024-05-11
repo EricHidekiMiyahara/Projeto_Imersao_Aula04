@@ -9,27 +9,30 @@
 
 ##
 
-### Público alvo
+### Descrição 👨‍💻
+  Inicialmente, para esse projeto foi utilizado duas técnicas de engenharia de prompt. A primeira chama-se zero shot prompt, ou seja, não tem nenhum exemplo pronto para envio no prompt. A segunda chama-se chain-of-thougt, ou seja, é uma cadeia de pensamentos ou um contexto bem introduzido. Essas duas técnicas foram explicadas e abordadas na Aula 02: Melhores técnicas em Engenharia de Prompt, da Alura. A codificação foi realizada por meio da linguagem Python, que foi usada no ambiente de desenvolvimento Jupyter Notebook, e que é do Google Colab. Por fim, para fins de pesquisa de como fazer os códigos foi usado o Google AI Studio, o Gemini e as aulas da Alura.
+  
+## Público-alvo 👥
 * Pessoas desinformadas ou leigas sobre quais organizações ou instituições oferecem tratamento psicológico gratuito.
-* Pessoas com familiaridade com a linguagem Jupyter Notebook.
+* Pessoas com familiaridade com a linguagem Python.
+* Pessoas com familiaridade com o ambiente Jupyter Notebook.
 * Pessoas com familiaridade com o Google Colab.
 * Pessoas com familiaridade com o Google AI Studio.
   
-### Tecnologias usadas 🖥️
-* Jupyter Notebook
+## Tecnologias usadas 🖥️
+* Python
 * Google AI Studio
 * Gemini
-
-##
-
-### Características de conteúdos para a realização do projeto 👨‍💻
-  Inicialmente, para esse projeto foi utilizado dois métodos de 
-
+  
 ## 
 
-### Observações 🔍
-  Para uma melhor visualização do meu chatbot é necessário fazer o passo a passo dos códigos que estão disponíveis no arquivo "Desafio_Aula04.ipynb" desse repositório. Dessa forma, você vai ter que fazer as mesmas perguntas e ter as mesmas configurações do Google AI Studio. Porém, pode ser que o Google AI Studio dê uma resposta diferente. Portanto, é necessário você fazer todos aqueles procedimentos para a visualização das respostas do chatbot que criei.
+## Observações 🔍
+* Para uma melhor visualização do meu chatbot é necessário fazer o passo a passo dos códigos que estão disponíveis no arquivo "Desafio_Aula04.ipynb" desse repositório. Dessa forma, você vai ter que fazer as mesmas perguntas e ter as mesmas configurações do Google AI Studio. Porém, pode ser que o Google AI Studio dê uma resposta diferente. Portanto, é necessário você fazer todos aqueles procedimentos para a visualização das respostas do chatbot que criei.
+* Você pode perguntar qualquer coisa relacionada a psicologia ou tratamento psicológico gratuito.
+* O Google AI Studio, na sua versão 1.5 pro latest, não vai apresentar informações e dados de 2024, ou seja, o escopo das pessoas que sofreram com as enchentes atingindas no Rio Grande do Sul, não vai ser abordado por ele.
 
 ## 
 
 ### Conclusão 👨‍⚕️
+  Este projeto demonstrou o potencial do uso de inteligência artificial, através de técnicas de engenharia de prompt e plataformas como Google AI Studio e Gemini, para fornecer informações importantes sobre tratamento psicológico gratuito para vítimas de enchentes. Apesar das limitações atuais do Google AI Studio em acessar dados de 2024, o chatbot desenvolvido oferece um ponto de partida para conectar pessoas afetadas por desastres naturais com recursos de apoio psicológico. A acessibilidade da linguagem Python e a familiaridade com as plataformas utilizadas tornam este projeto um exemplo prático de como a tecnologia pode ser utilizada para o bem social, criando um impacto positivo na vida daqueles que mais precisam.
+  
