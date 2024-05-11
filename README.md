@@ -12,14 +12,14 @@
 ### Descrição 👨‍💻
   Inicialmente, para esse projeto foi utilizado duas técnicas de engenharia de prompt. A primeira chama-se "zero shot prompt", ou seja, não tem nenhum exemplo pronto para envio do prompt. A segunda chama-se "chain-of-thougt", ou seja, é uma cadeia de pensamentos ou um contexto bem introduzido para envio de um prompt. Essas duas técnicas foram explicadas e abordadas na Aula 02: Melhores técnicas em Engenharia de Prompt, da Alura. A codificação foi realizada por meio da linguagem Python, que foi usada no ambiente de desenvolvimento Jupyter Notebook, e que é do Google Colab. Essa codificação foi parcialmente explicada na Aula 4: Criando seu próprio chatbot com a Gemini API no Google Colab, da Alura. Por fim, para fins de pesquisa de como fazer os códigos foi usado o Google AI Studio, o Gemini e as aulas da Alura. Esses fins foram explicados na Aula 1: Mergulhando no Gemini, a IA do Google e na Aula 3: Explorando os parâmetros do Google AI Studio, da Alura.
   
-## Público-alvo 👥
+### Público-alvo 👥
 * Pessoas desinformadas ou leigas sobre quais organizações ou instituições oferecem tratamento psicológico gratuito.
 * Pessoas com familiaridade com a linguagem Python.
 * Pessoas com familiaridade com o ambiente Jupyter Notebook.
 * Pessoas com familiaridade com o Google Colab.
 * Pessoas com familiaridade com o Google AI Studio.
   
-## Tecnologias usadas 🖥️
+### Tecnologias usadas 🖥️
 * Python
 * Jupyter Notebook
 * Google AI Studio
@@ -27,7 +27,7 @@
   
 ## 
 
-## Observações 🔍
+### Observações 🔍
 * Para uma melhor visualização do meu chatbot é necessário fazer o passo a passo dos códigos que estão disponíveis no arquivo "Desafio_Aula04.ipynb" desse repositório. Dessa forma, você vai ter que fazer as mesmas perguntas e ter as mesmas configurações do Google AI Studio. Porém, pode ser que o Google AI Studio dê uma resposta diferente. Portanto, é necessário você fazer todos aqueles procedimentos para a visualização das respostas do chatbot que criei.
 * Você pode perguntar qualquer coisa relacionada a psicologia ou tratamento psicológico gratuito.
 * O Google AI Studio, na sua versão 1.5 pro latest, não vai apresentar informações e dados de 2024, ou seja, o escopo das pessoas que sofreram com as enchentes atingindas no Rio Grande do Sul, não vai ser abordado por ele.
