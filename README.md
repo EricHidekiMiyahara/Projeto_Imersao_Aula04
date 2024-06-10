@@ -8,8 +8,8 @@
 ![shinigamis](https://github.com/EricHidekiMiyahara/projeto-xdevs-capitaesbleach/assets/139871798/948a8bda-9c31-43b2-b705-b343242e9a1e)
 
 <div align="center"
-img src="https://github.com/EricHidekiMiyahara/projeto-xdevs-capitaesbleach/assets/139871798/948a8bda-9c31-43b2-b705-b343242e9a1e" width="100px" /
-/div>
+img src="https://github.com/EricHidekiMiyahara/projeto-xdevs-capitaesbleach/assets/139871798/948a8bda-9c31-43b2-b705-b343242e9a1e" width="700px" />
+</div>
 
 ##
 
